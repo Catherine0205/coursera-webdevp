@@ -9,6 +9,6 @@ The users should be able to see the follows:
 - View the optimal layout for the page depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-###Tool used 
+### Tool used 
 - Bootstrap 
 - Inline svg from [IcoMoon](https://icomoon.io/)
